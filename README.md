@@ -1,6 +1,6 @@
 # web-scraping-challenge
 
-This repo contains project files relating to the web scraping of a mars website provided by the instructors and hosted by Edx.
+This repo contains project files relating to the web scraping of a pair of mars-related websites provided by the instructors and hosted by Edx.
 
 The code used to scrape the website can be found in the root directory of this repository. The same is true of the CSV file containing the exported Pandas DataFrame created in Part 2 of the project.
 
